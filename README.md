@@ -13,7 +13,7 @@ Materials:
 
 - Step Up (Link: https://www.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?rmmds=search&ID=49552&cur_warehouse=CN)
 - Switch (link: https://www.banggood.com/50Pcs-Vertical-Black-Mini-Miniature-OnOn-3-Pins-Terminals-Slide-Switch-p-1280539.html?rmmds=search&cur_warehouse=CN)
-- Battery LiPo 3.7v/ 260mAh (link: https://www.banggood.com/3_7V-260MAH-45C-Lipo-Battery-for-Eachine-E010-E010C-E011-E013-RC-Quadcopterr-p-1205887.html?rmmds=search&cur_warehouse=CN)
+- Battery LiPo 3.7v/ 260mAh-550mAh (link: https://www.banggood.com/3_7V-260MAH-45C-Lipo-Battery-for-Eachine-E010-E010C-E011-E013-RC-Quadcopterr-p-1205887.html?rmmds=search&cur_warehouse=CN)
 
 ![photo5100442521095481566](https://user-images.githubusercontent.com/41307385/83789364-fc6e7e80-a66c-11ea-9705-8258825862ae.jpg)
                                                 UV INDEX METER
