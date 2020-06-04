@@ -4,6 +4,8 @@
 [PT] Este repositório trata-se da utilização do sensor UV para aplicação hobbista. Abaixo estará o esquema das ligações e o resultado final do projeto. Para mais informações sobre o indice UV e como é calculado, segue o link: https://www.epa.gov/sunsafety/calculating-uv-index-0
 
 
+Datasheet UVM-30a: https://www.wiltronics.com.au/wp-content/uploads/datasheets/ARD2-2062.pdf
+
 Materials:
 - Arduino Nano (link: https://www.banggood.com/ATmega328P-Nano-V3-Module-Improved-Version-No-Cable-Development-Board-p-959231.html?rmmds=search&cur_warehouse=CN)
 
