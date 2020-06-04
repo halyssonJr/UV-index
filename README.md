@@ -5,7 +5,7 @@
 
 
 ![photo5100442521095481566](https://user-images.githubusercontent.com/41307385/83789364-fc6e7e80-a66c-11ea-9705-8258825862ae.jpg)
-
+                                                UV INDEX METER
 
 
 
@@ -14,10 +14,11 @@
 
 
 ![photo5100442521095481568](https://user-images.githubusercontent.com/41307385/83789446-1f009780-a66d-11ea-8b6b-82e4f8c89df4.jpg)
-
+                                                WELDING
 
 
 
 
 
 ![Capturar](https://user-images.githubusercontent.com/41307385/83789881-b534bd80-a66d-11ea-9c49-4a96b21c8459.PNG)
+                                                WIRING DIAGRAM
