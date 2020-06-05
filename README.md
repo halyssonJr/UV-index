@@ -16,20 +16,10 @@ Materials:
 - Battery LiPo 3.7v/ 260mAh-550mAh (link: https://www.banggood.com/3_7V-260MAH-45C-Lipo-Battery-for-Eachine-E010-E010C-E011-E013-RC-Quadcopterr-p-1205887.html?rmmds=search&cur_warehouse=CN)
 
 ![photo5100442521095481566](https://user-images.githubusercontent.com/41307385/83789364-fc6e7e80-a66c-11ea-9705-8258825862ae.jpg)
-                                                UV INDEX METER
-
-
-
-
-
-
-
+                                              
 ![photo5100442521095481568](https://user-images.githubusercontent.com/41307385/83789446-1f009780-a66d-11ea-8b6b-82e4f8c89df4.jpg)
-                                                WELDING
+                                                
 
+![Capturar](https://user-images.githubusercontent.com/41307385/83920052-4f6e3180-a752-11ea-9b7f-4eb1a1792bdf.PNG)
 
-
-
-
-![Capturar](https://user-images.githubusercontent.com/41307385/83789881-b534bd80-a66d-11ea-9c49-4a96b21c8459.PNG)
-                                                WIRING DIAGRAM
+                                               
